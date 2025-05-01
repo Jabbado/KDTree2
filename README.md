@@ -1,3 +1,8 @@
+# KDTree2
+This is my modified version of https://github.com/ericreg/Supercluster.KDTree, changed to use a node object so that each derived node can have its own distance metric etc
+
+The following is the original readme:
+
 # Supercluster.KDTree
 This is a [KD-Tree](https://en.wikipedia.org/wiki/K-d_tree) written completely in C#.  This project originally 
 started as a fork of the KD-Tree Written by [CodeandCats](https://github.com/codeandcats), however, the 
