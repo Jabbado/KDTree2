@@ -1,5 +1,6 @@
 # KDTree2
-This is my modified version of https://github.com/ericreg/Supercluster.KDTree, changed to use a node object so that each derived node can have its own distance metric etc
+This is my modified version of https://github.com/ericreg/Supercluster.KDTree.
+Removed everything except the KDTree library and updated to NET10
 
 The following is the original readme:
 
